@@ -3,6 +3,7 @@
 <p align="center"><strong>Finanzas · Marketing · Inteligencia artificial</strong></p>
 
 <p align="center">Me interesan las finanzas y el marketing, y cómo la tecnología puede ayudar a tomar mejores decisiones de negocio.</p>
+<p align="center">Digital Business @ UEAN</p>
 
 <p align="center">
 <a href="https://github.com/Jeronimo-Pellicer/geo-agencias-ar">Proyecto destacado</a> ·
