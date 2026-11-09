@@ -1,6 +1,5 @@
 <h1 align="center">Jerónimo Pellicer</h1>
 
-<p align="center"><strong>Finanzas · Marketing · Inteligencia artificial</strong></p>
 
 <p align="center">Me interesan las finanzas y el marketing, y cómo la tecnología puede ayudar a tomar mejores decisiones de negocio.</p>
 <p align="center">Digital Business @ UEAN</p>
